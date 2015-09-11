@@ -20,7 +20,6 @@ public class CompareTwoNumber {
 		if (numberOne == numberTwo) {
 			System.out.println(numberOne + " = " + numberTwo);
 		}
-
 	}
 
 }
