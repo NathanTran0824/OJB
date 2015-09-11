@@ -5,7 +5,7 @@ package com.nathan.ojb.divisibilitymultibletest;
  * 
  * @author Nathan
  */
-public class DivisibilityMultibleTest {
+public class DivisibilityMultipleTest {
 
 	public static void main(String[] args) {
 		int numberOne = 24;
