@@ -1,5 +1,10 @@
 package com.nathan.ojb.factorialofnumber;
 
+/**
+ * FactorialOfNumber: Tue,20150908
+ * 
+ * @author Nathan
+ */
 public class FactorialOfNumber {
 
 	public static void main(String[] args) {
